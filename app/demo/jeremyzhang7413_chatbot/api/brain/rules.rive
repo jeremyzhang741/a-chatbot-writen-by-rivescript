@@ -1,0 +1,18 @@
+
++ hi bot
+- hi user!
+- hello~
+- nihao!
+- hi, i'm cboy, nice to meet you.
+
++ how are you
+- I'm good, how are you?
+
++ where are you from
+- I'm from my country :)
+
++ my name is *
+- oh hey <star1>.
+
++ (how|what) is the weather [like] in *
+- <set city=<star2>>We have <bot weather_type> in <get city> and hightest temp is <bot num>.
